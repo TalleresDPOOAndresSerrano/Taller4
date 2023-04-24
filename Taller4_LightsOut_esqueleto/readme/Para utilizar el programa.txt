@@ -1,0 +1,13 @@
+Para utilizar el programa:
+
+1. Correrlo desde el main de la clase InterfazLightsOut del paquete interfaz.
+
+2. En la parte superior, seleccionar tamaño de la cuadrícula y dificultad:
+	
+	-Fácil: 10 movimientos
+	
+	-Medio: 20 movimientos
+
+	-Difícil: 30 movimientos
+
+3. Iniciar juego con el botón NUEVO
